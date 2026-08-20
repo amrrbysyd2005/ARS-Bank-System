@@ -148,7 +148,7 @@ ARS-Bank-Management-System/
 
 ### Deposit Operation
 
-![Deposit](screenshots/07-Deposit)
+![Deposit](screenshots/07-deposit)
 
 ---
 
