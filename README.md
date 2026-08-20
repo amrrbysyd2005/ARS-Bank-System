@@ -124,27 +124,31 @@ ARS-Bank-Management-System/
 
 ### Welcome Screen
 
-![Welcome Screen](Screenshots/welcome-screen.png)
+![Welcome Screen](screenshots/welcome-screen.png)
 
 ### Login & Authentication
 
-![Login Screen](Screenshots/login-screen.png)
-
-### Manager Menu
-
-![Manager Menu](Screenshots/manager-menu.png)
+![Login Manager](screenshots/02-login-manager.png)
 
 ### Client List
 
-![Client List](Screenshots/client-list.png)
+![Client List](screenshots/03-client-list.png)
 
-### Transaction Menu
+### Add Client
 
-![Transaction Menu](Screenshots/transaction-menu.png)
+![Add Client](screenshots/04-add-client.png)
 
-### Client Update
+### Update Client
 
-![Client Update](Screenshots/update-client.png)
+![Update Client](screenshots/05-update-client.png)
+
+### Banking Transactions
+
+![Transactions](screenshots/06-transactions.png)
+
+### Deposit Operation
+
+![Deposit](screenshots/07-Deposit)
 
 ---
 
